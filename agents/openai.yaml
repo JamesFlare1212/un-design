@@ -1,0 +1,7 @@
+# [INPUT]: ../SKILL.md 的技能名称和用途。
+# [OUTPUT]: Codex 技能列表中的名称和简短描述。
+# [POS]: 展示元数据，不定义界面改动规则。
+# [PROTOCOL]: 变更时更新此头部，然后检查 CLAUDE.md
+interface:
+  display_name: "un-design"
+  short_description: "精简 UI 界面，删除多余标签与说明，让布局表达信息关系"
