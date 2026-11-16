@@ -11,7 +11,13 @@
 安装到 Codex 的个人技能目录：
 
 ```sh
-git clone https://github.com/hiyeshu/un-design.git ~/.codex/skills/un-design
+git clone https://github.com/JamesFlare1212/un-design.git ~/.codex/skills/un-design
+```
+
+安装到 Pi，OpenCode 的个人技能目录：
+
+```sh
+git clone https://github.com/JamesFlare1212/un-design.git ~/.agents/skills/un-design
 ```
 
 目录已经存在时，先检查现有文件，避免覆盖本地修改。
